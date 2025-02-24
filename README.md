@@ -1,3 +1,9 @@
+## Dependencies
+
+*   Anaconda
+*   Python == 3.8.20
+*   Libraries listed in `requirements.txt`
+
 ## Algorithm
 
 This implementation likely involves a deep learning-based approach, possibly utilizing **Convolutional Neural Networks (CNNs)**, given their effectiveness in computer vision tasks. Two common approaches for multi-person pose estimation are:
