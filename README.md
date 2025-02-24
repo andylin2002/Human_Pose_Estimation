@@ -1,3 +1,7 @@
+## Overview
+
+This project implements a human pose estimation algorithm. **Human Pose Estimation (HPE) captures coordinates for joints (arms, head, torso, etc.)**, known as keypoints, to describe a person's pose. The connections between these keypoints are called pairs. This project applies deep learning-based approaches to 2D HPE.
+
 ## Dependencies
 
 *   Anaconda
